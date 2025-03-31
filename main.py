@@ -89,5 +89,3 @@ while running:
     clock.tick(300)
 
 pg.quit()
-
-print(100/20, 100//20, 100%20, 100//30, 100/30, 100%30)
